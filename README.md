@@ -100,11 +100,11 @@ The generated reports help identify stronger-performing categories and regions, 
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/mayank2730/Retail-Sales-ETL-Pipeline>
 cd Retail-Sales-ETL-Pipeline
 ```
 
-Replace the placeholder with your actual GitHub repository URL.
+
 
 ### 2. Create a virtual environment
 
