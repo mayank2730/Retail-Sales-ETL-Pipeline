@@ -2,6 +2,13 @@
 
 A Python-based ETL (Extract, Transform, Load) pipeline that processes retail sales data, validates data quality, stores cleaned records in a SQLite database, and generates analytical CSV reports.
 
+## 🚀 Live Dashboard
+
+[**Open Retail Sales ETL Dashboard**](https://retail-sales-etl-pipeline-hx9fssevyzmmzccjsuhaxz.streamlit.app/)
+
+
+
+
 ## Project Overview
 
 This project demonstrates a complete data engineering workflow using a retail sales dataset containing 9,994 records and 21 columns.
